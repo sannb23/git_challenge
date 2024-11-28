@@ -1,1 +1,2 @@
 Hellow,World!
+こんにちは、世界！
